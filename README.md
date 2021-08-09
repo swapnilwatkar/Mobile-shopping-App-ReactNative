@@ -1,8 +1,8 @@
-![paymentoption](https://user-images.githubusercontent.com/54033086/128783156-3eee0dc5-a5de-4cd9-9584-a8008499099f.gif)
+
 # Mobile-shopping-App
 Demo App for Shopping 
 ![eshop](https://user-images.githubusercontent.com/54033086/128782927-f7268398-d812-4469-8fe1-0f692722168e.gif)
-
+![paymentoption](https://user-images.githubusercontent.com/54033086/128783156-3eee0dc5-a5de-4cd9-9584-a8008499099f.gif)
 ## Description
 This project is a simple implementation of a shopping system, this project aims to provide the basic features that are expected to be found in a mobile e-commerce applicaion where users can view and purchase products. To navigate through the app, users have to authenticate themselves. Once logged-in, users can scroll through the list of available products, add different products to the cart, and make orders.
 The Payment option provided is not functional since this project just aims to learn the mobile e-commerce applicaion.
